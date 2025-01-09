@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Asclepius" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primaryColorDark</item>
+        <item name="colorAccent">@color/accentColorDark</item>
+        <item name="android:statusBarColor">@color/primaryColorDark</item>
+        <item name="android:textColor">@color/textColorDark</item>
+    </style>
+
+</resources>
