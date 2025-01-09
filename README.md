@@ -62,6 +62,19 @@ Daftar hasil diagnosa yang telah disimpan oleh pengguna.
 
 ---
 
+## **📦 Cara Instalasi**
+Untuk menjalankan aplikasi **EDicoding** di perangkat Anda, ikuti langkah-langkah berikut:  
+
+### 1. **Clone Repository**  
+Clone repository ini ke komputer Anda:  
+```bash
+git clone https://github.com/hklfsyh/Asclepius.git
+```
+### 2. **Download Releases**
+Download aplikasi untuk mencobanya secara langsung pada device dengan mendownloadnya di GitHub ini, atau pada [link](https://github.com/hklfsyh/EDicoding/releases/tag/v1.0.0) ini.
+
+---
+
 ## **Catatan**  
 - Aplikasi ini dibuat sebagai eksperimen pembelajaran mesin untuk mendukung pendidikan dan peningkatan kesadaran kesehatan.  
 - Hasil analisis dalam aplikasi ini tidak menggantikan diagnosa medis profesional. Pengguna disarankan untuk berkonsultasi dengan dokter untuk memastikan hasil diagnosa.
