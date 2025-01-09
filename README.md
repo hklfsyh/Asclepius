@@ -71,7 +71,7 @@ Clone repository ini ke komputer Anda:
 git clone https://github.com/hklfsyh/Asclepius.git
 ```
 ### 2. **Download Releases**
-Download aplikasi untuk mencobanya secara langsung pada device dengan mendownloadnya di GitHub ini, atau pada [link](https://github.com/hklfsyh/EDicoding/releases/tag/v1.0.0) ini.
+Download aplikasi untuk mencobanya secara langsung pada device dengan mendownloadnya di GitHub ini, atau pada [link](https://github.com/hklfsyh/Asclepius/releases/tag/v1.0.0) ini.
 
 ---
 
